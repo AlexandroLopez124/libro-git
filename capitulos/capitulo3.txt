@@ -1,0 +1,1 @@
+Git permite la creacion de ramas lo que permite tener distintas versionesmo protecto y trabajar de manera simultanea en ellas.
